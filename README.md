@@ -41,13 +41,11 @@ mediapipe-pose-static/
 ```
 ---
 
-## 🖼️ 範例畫面
-
 ## 🖼️ 成果示意
 
 | 原始圖片 | 偵測後 |
 |----------|---------|
-| ![](images/image1.jpg) | ![](output/image1.jpg) |
+| <img src="images/image1.jpg" width="300"/> | <img src="output/image1.jpg" width="300"/> |
 
 ## 📚 參考資料
 - Mediapipe Pose 官方文件https://google.github.io/mediapipe/solutions/pose.html
