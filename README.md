@@ -32,7 +32,7 @@ python main.py
 
 ## 📁 專案結構
 ```cpp
-mediapipe-pose-static/
+mediapipe-pose/
 ├── main.py
 ├── requirements.txt
 ├── images/
