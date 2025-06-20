@@ -6,21 +6,13 @@ This project uses Google Mediapipe to perform pose detection on static images, v
 
 ## 📷 功能介紹 | Features
 
-- 偵測單人圖片中的人體 33 個關鍵姿勢點
+- 偵測單人圖片中的人體 33 個關鍵姿勢點 | Detect 33 key human pose landmarks in a single-person image
 
-- 繪製骨架與關節連線
+- 繪製骨架與關節連線 | Draw skeletons and joint connections
 
-- 儲存處理後的圖片
+- 儲存處理後的圖片 | Save the processed images
 
-- 支援 JPG、PNG 格式圖片輸入
-
-- Detect 33 key human pose landmarks in a single-person image
-
-- Draw skeletons and joint connections
-
-- Save the processed images
-
-- Supports image input in JPG and PNG formats
+- 支援 JPG、PNG 格式圖片輸入 | Supports image input in JPG and PNG formats
 
 ## 🔧 使用技術 | Technologies
 
